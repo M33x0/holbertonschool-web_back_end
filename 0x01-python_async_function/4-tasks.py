@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """task wait n module"""
+
 import asyncio
 from typing import List
 
